@@ -1,0 +1,18 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/jayden/Downloads/30秒儿童电摩版本.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+    comment         : Signature: koK20cw+vCuR2f5+mS8OxkPUDmcS4vmXNZ3KVLs4YldzyyP9rnSCFDmuyrBF0H5FFDI9x6fy5OPwp32/Cw6Tz2kPx3XGcAsxBljNX1MI5zVXR2kI6InK9idUpOTLh7lRRoFIajt0ZePnGESujEyegxB309GP0w67IcLnxCu+ojT1bsy07d4xw1KZeHDd9JxBUAx9LBtCxDFvpDMeVuKGMXatYipCTwbqovQdO5SbUkVjaN+nOqsZ
+  Duration: 00:00:30.02, start: 0.000000, bitrate: 5702 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 5505 kb/s, 24.03 fps, 24 tbr, 1000k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+At least one output file must be specified

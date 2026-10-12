@@ -1,0 +1,7 @@
+interface:
+  display_name: "Character Reference Sheet"
+  short_description: "先建立肖像与全身基准，再生成视频用的一致角色单图与参考表"
+  icon_large: "./assets/preview.png"
+  default_prompt: "用 $artifact-template-character-reference-sheet 为我描述的角色建立视频用参考包：先生成肖像和全身基准，再制作独立视角、表情、姿势与总览表。"
+policy:
+  allow_implicit_invocation: true

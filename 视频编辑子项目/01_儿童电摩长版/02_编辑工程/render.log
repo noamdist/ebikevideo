@@ -1,0 +1,75 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/jayden/Downloads/Little_Rider_Big_Adventures_80s_v2.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+    comment         : Signature: koK20cw+vCuR2f5+mS8OxkPUDmcS4vmXNZ3KVLs4YldzyyP9rnSCFDmuyrBF0H5FFDI9x6fy5OPwp32/Cw6Tz2kPx3XGcAsxBljNX1MI5zVXR2kI6InK9idUpOTLh7lRRoFIajt0ZePnGESujEyegxB309GP0w67IcLnxCu+ojT1bsy07d4xw1KZeHDd9JxBUAx9LBtCxDFvpDMeVuKGMXatYipCTwbqovQdO5SbUkVjaN+nOqsZ
+  Duration: 00:01:20.33, start: 0.000000, bitrate: 6898 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 6702 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 190 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:0 (h264) -> trim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  Stream #0:1 (aac) -> atrim:default
+  fade:default -> Stream #0:0 (libx264)
+  afade:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+[libx264 @ 0x1201060a0] using SAR=1/1
+[libx264 @ 0x1201060a0] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0x1201060a0] profile High, level 3.1, 4:2:0, 8-bit
+[libx264 @ 0x1201060a0] 264 - core 164 r3190 7ed753b - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=15 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Users/jayden/Downloads/Little_Rider_Big_Adventures_Jayden_Edit_v3.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   57 fps=0.0 q=23.0 size=    1024KiB time=00:00:02.29 bitrate=3660.7kbits/s speed=4.54x    frame=  147 fps=146 q=23.0 size=    3072KiB time=00:00:06.04 bitrate=4165.4kbits/s speed=   6x    frame=  244 fps=162 q=23.0 size=    5376KiB time=00:00:10.08 bitrate=4367.7kbits/s speed=6.68x    frame=  336 fps=167 q=23.0 size=    7168KiB time=00:00:13.91 bitrate=4219.4kbits/s speed=6.92x    frame=  421 fps=167 q=23.0 size=    8960KiB time=00:00:17.45 bitrate=4204.3kbits/s speed=6.94x    frame=  510 fps=169 q=23.0 size=   11264KiB time=00:00:21.16 bitrate=4359.5kbits/s speed=7.02x    frame=  592 fps=168 q=23.0 size=   13824KiB time=00:00:24.58 bitrate=4606.6kbits/s speed=6.98x    frame=  664 fps=165 q=23.0 size=   17408KiB time=00:00:27.58 bitrate=5170.0kbits/s speed=6.85x    frame=  724 fps=160 q=23.0 size=   20480KiB time=00:00:30.08 bitrate=5576.9kbits/s speed=6.64x    frame=  782 fps=155 q=23.0 size=   23808KiB time=00:00:32.50 bitrate=6001.1kbits/s speed=6.45x    frame=  840 fps=152 q=23.0 size=   27904KiB time=00:00:34.95 bitrate=6538.9kbits/s speed=6.31x    frame=  892 fps=148 q=23.0 size=   30976KiB time=00:00:37.12 bitrate=6835.2kbits/s speed=6.14x    frame=  948 fps=145 q=23.0 size=   34048KiB time=00:00:39.45 bitrate=7068.8kbits/s speed=6.02x    frame= 1013 fps=144 q=23.0 size=   38912KiB time=00:00:42.16 bitrate=7559.7kbits/s speed=5.98x    [out_#0:1 @ 0x11ee20ea0] 100 buffers queued in out_#0:1, something may be wrong.
+frame= 1100 fps=146 q=23.0 size=   41216KiB time=00:00:45.79 bitrate=7373.4kbits/s speed=6.06x    [mp4 @ 0x120105370] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x120105180] video:41829KiB audio:1186KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.082271%
+frame= 1209 fps=152 q=-1.0 Lsize=   43050KiB time=00:00:50.33 bitrate=7006.6kbits/s speed=6.34x    
+[libx264 @ 0x1201060a0] frame I:12    Avg QP:15.14  size:169216
+[libx264 @ 0x1201060a0] frame P:350   Avg QP:18.41  size: 63461
+[libx264 @ 0x1201060a0] frame B:847   Avg QP:22.11  size: 21948
+[libx264 @ 0x1201060a0] consecutive B-frames:  2.7%  9.1%  7.4% 80.7%
+[libx264 @ 0x1201060a0] mb I  I16..4:  5.8% 62.2% 32.0%
+[libx264 @ 0x1201060a0] mb P  I16..4:  2.5% 13.7%  4.0%  P16..4: 29.5% 26.2% 15.3%  0.0%  0.0%    skip: 8.8%
+[libx264 @ 0x1201060a0] mb B  I16..4:  0.3%  1.9%  1.0%  B16..8: 38.2% 12.3%  3.7%  direct: 6.5%  skip:36.0%  L0:36.4% L1:39.6% BI:24.0%
+[libx264 @ 0x1201060a0] 8x8 transform intra:65.5% inter:63.0%
+[libx264 @ 0x1201060a0] coded y,uvDC,uvAC intra: 73.4% 66.5% 37.1% inter: 31.4% 30.3% 5.2%
+[libx264 @ 0x1201060a0] i16 v,h,dc,p: 52% 23%  8% 17%
+[libx264 @ 0x1201060a0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 31% 23%  3%  5%  4%  9%  4%  8%
+[libx264 @ 0x1201060a0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12% 29% 12%  5%  8%  7% 13%  6%  8%
+[libx264 @ 0x1201060a0] i8c dc,h,v,p: 52% 25% 17%  6%
+[libx264 @ 0x1201060a0] Weighted P-Frames: Y:7.7% UV:5.7%
+[libx264 @ 0x1201060a0] ref P L0: 64.1% 18.1% 13.9%  3.8%  0.1%
+[libx264 @ 0x1201060a0] ref B L0: 92.9%  6.0%  1.0%
+[libx264 @ 0x1201060a0] ref B L1: 98.3%  1.7%
+[libx264 @ 0x1201060a0] kb/s:6796.49
+[aac @ 0x1201073e0] Qavg: 1905.303

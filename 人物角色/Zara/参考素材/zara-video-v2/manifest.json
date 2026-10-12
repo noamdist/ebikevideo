@@ -1,0 +1,146 @@
+{
+  "character": "Zara",
+  "age": 20,
+  "nationality": "American",
+  "fictional": true,
+  "date": "2026-10-12",
+  "tool": "built-in imagegen",
+  "canonical_face": "01-face-front.png",
+  "canonical_body": "02-body-front.png",
+  "neutral_expression": "01-face-front.png",
+  "neutral_standing": "02-body-front.png",
+  "assets": [
+    {
+      "file": "01-face-front.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "01-face-front"
+    },
+    {
+      "file": "02-body-front.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "02-body-front"
+    },
+    {
+      "file": "03-body-three-quarter.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "03-body-three-quarter"
+    },
+    {
+      "file": "04-body-profile.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "04-body-profile"
+    },
+    {
+      "file": "05-body-back.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "05-body-back-corrected"
+    },
+    {
+      "file": "06-face-three-quarter.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "06-face-three-quarter"
+    },
+    {
+      "file": "07-face-profile.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "07-face-profile"
+    },
+    {
+      "file": "08-expression-happy.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "08-expression-happy"
+    },
+    {
+      "file": "09-expression-angry.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "09-expression-angry"
+    },
+    {
+      "file": "10-expression-sad.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "10-expression-sad"
+    },
+    {
+      "file": "11-expression-surprised.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "11-expression-surprised"
+    },
+    {
+      "file": "12-expression-worried.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "12-expression-worried"
+    },
+    {
+      "file": "13-expression-confident.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "13-expression-confident"
+    },
+    {
+      "file": "14-expression-determined.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "14-expression-determined"
+    },
+    {
+      "file": "15-pose-walking.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "15-pose-walking"
+    },
+    {
+      "file": "16-pose-sitting.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "16-pose-sitting"
+    },
+    {
+      "file": "17-pose-relaxed.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "17-pose-relaxed"
+    },
+    {
+      "file": "18-pose-arms-crossed.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "18-pose-arms-crossed"
+    },
+    {
+      "file": "19-pose-tense.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "19-pose-tense"
+    },
+    {
+      "file": "20-pose-ready.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "20-pose-ready"
+    },
+    {
+      "file": "21-wardrobe-materials.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "21-wardrobe-materials"
+    },
+    {
+      "file": "22-overview.png",
+      "width": 1024,
+      "height": 1536,
+      "generation_record": "22-overview"
+    }
+  ]
+}
